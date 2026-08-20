@@ -97,17 +97,17 @@ decode-lab-project-2-eda/
 
 ## Key Learning Outcomes
 
-- Performing exploratory data analysis in Excel.
-- Calculating and interpreting descriptive statistics.
-- Using PivotTables for analysis.
-- Identifying potential outliers.
-- Analysing trends over time.
-- Creating data visualisations.
-- Translating numerical results into business insights.
+Performing exploratory data analysis in Excel.
+Calculating and interpreting descriptive statistics.
+Using PivotTables for analysis.
+Identifying potential outliers.
+Analysing trends over time.
+Creating data visualisations.
+Translating numerical results into business insights.
 
 ## Preview
-- EDA 1 png: https://github.com/faruqmayorwa/decode-lab-project-2-eda/blob/main/EDA%201.png
-- EDA 1 png:
+EDA 1 png: https://github.com/faruqmayorwa/decode-lab-project-2-eda/blob/main/EDA%201.png
+EDA 1 png:
 
 ## Conclusion
 
