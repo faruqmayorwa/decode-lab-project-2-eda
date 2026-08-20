@@ -105,6 +105,10 @@ decode-lab-project-2-eda/
 - Creating data visualisations.
 - Translating numerical results into business insights.
 
+## Preview
+- EDA 1 png: https://github.com/faruqmayorwa/decode-lab-project-2-eda/blob/main/EDA%201.png
+- EDA 1 png:
+
 ## Conclusion
 
 The exploratory analysis revealed a clear decline in total sales between 2023 and 2025, with the largest decline occurring between 2024 and 2025. The analysis also highlighted potential high-value observations in TotalPrice that require further statistical investigation.
