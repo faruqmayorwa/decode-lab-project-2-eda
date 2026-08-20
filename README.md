@@ -93,7 +93,7 @@ The project includes Excel visualisations for relevant findings, including sales
 
 ## Preview
 - EDA 1 png: https://github.com/faruqmayorwa/decode-lab-project-2-eda/blob/main/EDA%201.png
-- EDA 1 png:
+- EDA 1 png: https://github.com/faruqmayorwa/decode-lab-project-2-eda/blob/main/EDA%202.png
 
 ## Conclusion
 
